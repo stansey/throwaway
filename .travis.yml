@@ -1,0 +1,2 @@
+secure: "Ia6jTdW9ylvq5zsx0QXWlkd3UYlWMEaQPF213VHpfGndzWBeDdrAtGwHtco8vUfvpxKDom44pbNOVMw3hriaWMXXaOdwJjm/+wcpgri2Rx4nxZ+kQW2W9EuS+0mXGfEjCJzCWd2Q8Vr6LdCY4FhTsDJvmhoEakgvR20JxhB2eVM="
+script: echo $SECRET
